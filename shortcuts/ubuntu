@@ -1,0 +1,6 @@
+// tells bash name
+echo $0
+// shows hidden files
+Ctrl + H
+// open new tab in terminal
+Ctrl + Shift + T
